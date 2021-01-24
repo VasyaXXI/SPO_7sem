@@ -1,0 +1,12 @@
+function sum(a,b){
+  d = a + b;
+  return d;
+}
+
+function pricol(a,b){
+  d = 9+1;
+  f = a*b + d;
+  return f;
+}
+
+b = sum(1,2) + pricol(1,2);
